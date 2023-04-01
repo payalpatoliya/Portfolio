@@ -1,0 +1,1565 @@
+@media(max-width:1599px){
+
+    /* --offcanvas-- */
+   .host{
+    padding: 50px;
+   }
+
+    /* --banner-- */
+    .banner{
+        padding: 200px 0 0;
+    } 
+    .banner-content .title{
+        font-size: 63px;
+    }
+    .banner-content p{
+        max-width: 500px;
+    }
+
+    /* --services-- */
+    .services-head h2{
+        font-size: 56px;
+        width: 60%!important;
+    }
+    .services-grid{
+        padding: 50px 30px 40px;
+    }
+
+    /* --about-us-- */
+    .about-heading h2{
+        font-size: 56px!important;
+    }
+    
+    /* --project-- */
+    .project{
+        padding: 100px 0 60px;
+      }
+
+    /*--design--  */
+    .design-heading h2{
+        font-size: 56px!important;
+    }
+    .design-no h2{
+        font-size: 56px;
+    }
+    .design-no h5{
+        font-size: 17px!important;
+    }
+
+    /* --testimonial-- */
+    .testimonial-heading h2{
+        font-size: 55px;
+      } 
+    
+      /*--pricing--  */
+      .pricing-heading h2{
+        font-size: 56px;
+      }
+      .pricing-header h3{
+        font-size: 40px!important;
+      } 
+
+      /* --client-- */
+      .clients-heading h2{
+        font-size: 56px;
+       } 
+   
+    /* --stories-- */
+    .stories-heading h2{
+        font-size: 56px;
+    }
+    .stories ul .startup img{
+        opacity: 0.4;
+    }
+    .stories ul .sms4{
+        right: 100px;
+    }
+
+    /* --work--- */
+    .work-heading h2{
+        width: 100%!important;
+        margin: 0 auto 55px;
+        font-size: 56px;
+    }
+
+    /* --footer-- */
+    .footer-touch h2{
+        font-size: 53px;
+    }
+
+    /* --services--banner-- */
+    
+    .titlee{
+        font-size: 56px;
+    }
+    .section-img{
+        right: -50px;
+        bottom: -80px;
+    }
+    .section-img img{
+        width: 90%;
+    }
+
+    /* ---expert-- */
+    .expert-title{
+        font-size: 56px;
+    }
+
+    /* --help-- */
+    .help-h2{
+        font-size: 56px;
+        width: 40%;
+    }
+
+    /* --help-- */
+    .help-grid{
+     padding: 50px 30px 40px;
+    }
+
+    /* --team-- */
+    .team-img img{
+        width: 90%;
+    }
+    .team-img{
+        right: -50px;
+    }
+     /* --meet--team-- */
+     .til{
+        font-size: 56px;
+    }
+    
+     /* --movement-- */
+    .move-1{
+        top: 48%;
+        left: 3%;
+    } 
+    .move-2{
+        top: 43%;
+        right: 3%;
+    }
+
+    /* --team-home-- */
+    .team-home h1{
+        font-size: 56px;
+    }
+    .team-area .im-2 img{
+        width: 90%;
+    }
+
+    /* --cooper-data-- */
+    .cooper-data h2{
+        font-size: 56px;
+    }
+
+    /* --blog- */
+    .blog-grid h3{
+        font-size: 38px;
+    }
+
+    /* --contact-- */
+    .contact-form h3{
+        font-size: 36px;
+    }
+
+    /* --office-- */
+    .office-heading h2{
+        font-size: 56px;
+    }
+
+    /* --im-2-- */
+    .im-2{
+        right: -13px;
+    }
+
+
+}
+@media(max-width:1399px){
+
+   /* -header--- */
+    .header_wrapper .container{
+        max-width: 100%;
+    }
+
+    /* --footer-- */
+    .footer{
+        max-width: 100%;
+    }
+
+    /* --value-- */
+    .value{
+        /* max-width: 100%!important; */
+        /* padding-left: 30px!important; */
+        /* padding-right: 30px!important; */
+    }
+
+}
+@media(max-width:1299px){
+
+    /* --work-- */
+     .work-heading h6{
+        font-size: 19px!important;
+      }
+      .work-heading h2{
+          font-size: 50px!important;
+     }
+     .sham1{
+       bottom: 0;
+       left: 82px;
+    }
+    .sham2{
+        bottom: 0;
+        right: 30px;
+    }
+}
+@media(max-width:1199px){
+
+    /* --header--- */
+    .header_wrapper{
+        justify-content: center!important;
+    }
+    .header_wrapper .container{
+        max-width: 960px!important;
+    }   
+    .header_wrapper .navbar-collapse{
+    margin: 0 30px;
+    }
+    .header_wrapper .navbar-nav .nav-item{
+        padding: 0!important;
+    }
+    .header_wrapper .navbar .bar-btn{
+        margin-left: 0!important;
+    }
+
+    /* --banner-- */
+    .banner{
+        padding: 200px 0 140px;
+        /* min-height: 100%; */
+    }
+    .banner-content .title{
+        font-size: 60px;
+    }
+    .banner-content p{
+     max-width: 400px;
+     }
+
+     /* --services-- */
+     .services-grid{
+        padding: 40px 15px;
+     }
+     .services{
+        padding: 100px 0 60px;
+     } 
+     .services-head h2{
+        font-size: 60px;
+     }  
+     .services-head p{
+        width: 60%;
+     }
+     .services-img{
+        max-width: 60px;
+     }
+     .services-data p{
+        font-size: 16px;
+     } 
+
+     /* --about-us-- */
+     .about-us{
+        padding: 100px 0 0;
+    }
+    .about-heading h2{
+        font-size: 50px!important;
+    }
+    .about-form h3{
+        font-size: 32px!important;
+    } 
+
+    /* --project-- */
+    .project-heading h5{
+        font-size: 18px;
+    }
+
+    /* design-- */
+    .design{
+        padding: 100px 0 70px!important;
+    }
+    .design-heading h2{
+        font-size: 56px!important;
+    }
+    .design-para{
+       width: 50%!important;
+    }
+
+    /* --testimonial--   */
+    .testimonial{
+        padding: 100px 0 70px;
+    }
+
+    /* --pricing-- */
+    .pricing{
+        padding: 100px 0 70px!important;
+    }
+    .pricing-heading h2{
+       font-size: 56px!important;
+    }
+    .pricing-heading p{
+        width: 50%;
+        margin: 0 auto;
+    }
+    .pricing-col{
+        padding: 40px 15px!important;
+    }
+    .pricing-header h3{
+        font-size: 36px!important;
+    }
+    .price h2{
+        font-size: 50px!important;
+    }
+
+    /* --pricing-- */
+    .clients{
+        padding: 100px 0 60px;
+    }
+    .clients .container{
+        max-width: 960px!important;
+    }
+    .clients-heading h2{
+        width: 60%!important;
+        font-size: 50px;
+    }
+    .client-para{
+        max-width: 500px!important;
+    }
+
+    /* --stories-- */
+    .stories{
+        padding: 100px 0;
+    }
+    .stories-heading h2{
+        font-size: 60px;
+    }
+    .stories-heading p{
+        font-size: 18px!important;
+    }
+    .stories-data{
+        padding: 40px 0!important;
+    }
+    .stories ul .startup img{
+        opacity: 1;
+    }
+
+    /* --work-- */
+    .work{
+        padding: 100px 0;
+    }
+    .work-heading h2{
+        width: 50%!important;
+        margin: 0 auto 55px;
+    }
+    .center-img img{
+        width: 90%;
+    }
+    .sham1{
+        bottom: 0;
+        left: 15px;
+    }
+    .sham2{
+        bottom: 0;
+        right: -60px;
+    }
+    .sham1 img{
+        width: 90%;
+    }
+    .sham2 img{
+        width: 90%;
+    }
+
+    /* --footer-- */
+    .footer{
+        max-width: 960px!important;
+    }
+    .footer-main .border-end{
+        border:none!important;
+        padding-right: 0;
+        margin-right: 0;
+    }
+
+    /* --bussiness-- */
+    .bussiness{
+        padding: 200px 0 50px;
+    }
+    .titlee{
+        font-size: 60px;
+    }
+    .im-2 img{
+        width: 60%;
+        text-align: right;
+    }
+    .section-img{
+        right: -40px;
+        bottom: -50px;
+    }
+    .section-img img{
+        width: 65%;
+    }
+
+    /* --experrt-- */
+    
+    .section{
+        padding: 100px 0 70px; 
+    }
+    .expert-title{
+        font-size: 54px;
+    }
+    .experts-no h2{
+        font-size: 56px;
+    }
+
+    /* --help-- */
+    .help{
+        padding: 100px 0 70px;
+    }
+    .help-h2{
+        width: 50%;
+    }
+    .help-grid{
+        padding: 40px 15px;
+    }
+    .help-img img{
+        max-width: 60px;
+    }
+    .section-heading{
+        margin-bottom: 50px;
+    }
+
+    /* --value-- */
+    .value{
+        padding-bottom: 40px;
+    }
+    .value-heading h1{
+        width: 70%;
+    }
+    .value-p{
+        width: 60%;
+    }
+    .value-que h3{
+        font-size: 36px;
+    }
+
+    /* --portfolio- */
+    .project-info{
+        padding: 40px;
+    }
+
+    /* --team-- */
+    .team-img img{
+        width: 65%;
+    }
+    .team-img{
+        right: 0;
+    }
+    .team{
+        padding: 200px 0 50px;
+    }
+
+    /* --meet-team-- */
+    .meet-team{
+        padding: 100px 0 70px;
+    }
+    .til{
+        font-size: 60px;
+    }
+    .mov-heading .ment-til{
+        width: 60%;
+    }
+
+    /* --team-home-- */
+    .team-area .im-2 img{
+        width: 80%;
+    }
+
+    /* --cooper-- */
+    .cooper{
+        padding: 100px 0;
+    }
+
+    /* --blog-- */
+    .blog{
+        padding: 100px 0;
+    }
+    .blog-grid h3{
+        font-size: 34px;
+    }
+    .share{
+        padding: 24px 20px;
+    }
+    .share h5{
+        margin-right: 20px;
+    }
+    .share ul li a{
+        padding: 5px;  
+    }
+    /* .blog .col-lg-8{
+        padding: 0 15px;
+    } */
+    /* .blog .col-lg-4{
+        padding: 0 15px;
+    } */
+    .playy-btn{
+        height: 100px;
+        width: 100px;
+        font-size: 26px;
+    }
+    /* .post-content ul .ms-2{
+        margin-left: 0;
+    } */
+
+    /* --contact-- */
+    .contact-form h3{
+        font-size: 32px;
+    }
+    .phone-no a{
+        font-size: 42px;
+    }
+    .email-no a{
+        font-size: 40px;
+    }
+
+    /* --office-- */
+    .office-heading h2{
+        font-size: 60px;
+    }
+    /* --im-2-- */
+    .im-2{
+        right: -220px;
+    }
+
+}
+@media(max-width:991px){
+
+    /* --header-- */
+    .header_wrapper .container{
+            max-width: 720px!important;
+    }
+    .navbar-brand img{
+        width: 150px;
+    }
+
+    /* --banner-- */
+    .banner{
+        padding: 130px 0 0;
+    }
+    .banner .col-lg-6{
+        padding-top: 0!important;
+        margin-bottom: 90px;
+    }
+    .banner-content{
+        margin-top: 0;
+    }
+    .banner-content .title{
+        font-size: 55px;
+    }
+    .banner-content p{
+        max-width: 600px;
+    }
+    .banner .btn{
+        padding: 20px 35px;
+    }
+
+    /* --services-- */
+    .services{
+        padding: 80px 0 40px;
+     }  
+    .services-head{
+        margin-bottom: 50px;
+    } 
+    .services-head h5{
+        font-size: 18px;
+    }
+     .services-head h2{
+        font-size: 49px;
+        width: 100%!important;
+     } 
+     .services-head p{
+        width: 100%;
+        font-size: 16px;
+     } 
+     .services-img{
+        width: 60px;
+        margin-right: 15px;
+    }
+    .services-grid{
+        padding: 40px 25px;
+    }
+    
+
+    /* --about-us-- */
+    .about-us{
+        padding: 80px 0;
+    }
+    .about-heading h2{
+        font-size: 45px!important;
+    }
+    .about-heading h5{
+        font-size: 18px!important;
+    }
+    .about-heading p{
+        font-size: 16px;
+    }
+
+    /* --project-- */
+    .project{
+        padding: 80px 0 40px;
+    }
+      .project-heading h2 {
+        max-width: 400px!important;
+        font-size: 50px!important;
+    }
+    .pro-btm .btn{
+        font-size: 17px!important;
+    }
+    .pro-btm.mb-5{
+        margin-bottom: 55px!important;
+    }
+   
+    .project-info h4 a{
+        font-size: 23px!important;
+    }
+    .project-info p{
+        font-size: 16px;
+    }
+
+    /* --design-- */
+    .design{
+        padding: 80px 0 25px!important;
+    }
+    .design .design-heading{
+        margin-bottom: 50px!important;
+    }
+    .design-heading h5{
+        font-size: 18px;
+    }
+    .design-para{
+        width: 100%!important;
+        font-size: 16px;
+     }
+
+     /* --testimonial-- */
+     .testimonial{
+        padding: 80px 0 50px;
+    }
+    .testimonial-heading{
+        margin-bottom: 50px;
+    }
+    .testimonial-heading h5{
+        font-size: 18px;
+    }
+    .testimonial-heading h2{
+        font-size: 50px;
+    }
+    .testimonial-heading p{
+        font-size: 16px;
+        width: 100%!important;
+    }
+
+    /* --pricing-- */
+    .pricing{
+        padding: 80px 0 50px!important;
+    }
+    .pricing-heading{
+        margin-bottom: 50px;
+    }
+    .pricing-heading h5{
+        font-size: 18px;
+    }
+    .pricing-heading h2{
+        font-size: 50px!important;
+    }
+    .pricing-heading p{
+        font-size: 16px;
+    }
+    .pricing-heading p{
+        font-size: 16px!important;
+        width: 100%;
+    }
+    .pricing-col{
+        padding: 40px!important;
+    }
+    .pricing-header h3{
+        font-size: 36px!important;
+    }
+    .price-btn .btn{
+        padding: 18px 35px!important;
+    }
+
+    /* --client-- */
+    .clients{
+        padding: 80px 0 40px;
+    }
+    .clients-heading{
+        margin-bottom: 50px;
+    }
+    .clients-heading h5{
+        font-size: 18px;
+    }
+    .clients-heading h2{
+        width: 100%!important;
+    }
+    .client-para{
+        max-width: 700px!important;
+    }
+
+    /* --stories-- */
+    .stories{
+        padding: 80px 0;
+    }
+    .stories-heading{
+        margin-bottom: 50px;
+    }
+    .stories-heading h5{
+        font-size: 18px;
+    }
+    .stories-heading h2{
+        font-size: 50px;
+    }
+    .stories-heading p{
+        font-size: 16px!important;
+        width: 100%;
+    }
+    .stories-data{
+        border-right: none!important;
+    }
+    .stories-bata{
+        border-left: none!important;
+    }
+
+    /* --work-- */
+    
+    .work{
+        padding: 80px 0;
+    }
+    .work::after{
+        height: 500px!important;
+    }
+    .center-img{
+        margin-right: -130px;
+    }
+    .work-heading h2{
+        width: 100%!important;
+    }
+    .work-heading h6{
+        font-size: 16px;
+    }
+    .work-heading h2{
+        font-size: 48px;
+    }
+   .work-heading .btn{
+      padding: 18px 36px;
+   }
+   .center-img img{
+    width: 70%;
+   }
+   .sham1 img{
+    width: 70%;
+    }
+   .sham2 img{
+    width: 70%;
+   }
+   .sham1{
+    bottom: 0;
+    left: -50px;
+   }
+   .sham2{
+    bottom: 0;
+    right: -99px;
+    }
+   
+     /* ---footer--- */
+     .footer{
+        max-width: 720px!important;
+    }
+    .footer-top{
+        padding-bottom: 50px;
+    }
+    .social ul li a i{
+        font-size: 20px;
+    }
+    .footer-main .border-end{
+        border:none!important;
+        padding-right: 0;
+        margin-right: 0;
+        margin-bottom: 80px;
+    }
+    .footer-touch{
+        margin-bottom: 80px!important;
+    }
+    .alt{
+        font-size: 18px!important;
+        font-weight: 700;
+    }
+    .shrink{
+        font-size: 18px!important;
+        font-weight: 700;
+    }
+    .flut li a{
+        font-size: 16px!important;
+    }
+
+    /* --bussiness-- */
+    .bussiness{
+        padding: 150px 0 40px;
+    }
+    .section-heading{
+        margin-bottom: 40px;
+    }
+    .titlee{
+        margin-bottom: 30px;
+        width: 100%;
+        font-size: 50px;
+    }
+    .section-heading p{
+        font-size: 16px;
+        width: 100%;
+    }
+    .section-img{
+        position: static;
+        text-align: center;
+    }
+    .section-img img{
+        width: 100%;
+    }
+
+    /* --expert-- */
+    .section{
+        padding: 80px 0 50px; 
+    }
+    .section-heading{
+        margin-bottom: 50px;
+    }
+    .subtitle{
+        font-size: 18px;
+    }
+    .bit{
+        padding: 18px 35px!important;
+    }
+   
+    /* --bussiness-- */
+    .bussiness{
+        padding: 150px 0 20px;
+    }
+
+     /* --help-- */
+     .help{
+        padding: 80px 0 50px;
+     }
+     .help-grid{
+        padding: 40px 25px;
+    }
+    .help-h2{
+        font-size: 50px;
+        width: 70%;
+    }
+    .help-img{
+        width: 60px;
+        margin-right: 15px;
+    }
+    .subtitle{
+        font-size: 16px;
+    }
+    .help-h2{
+        width: 80%;
+    }
+    .help-data h5 a{
+        font-size: 20px;
+    }
+
+    /* --value-- */
+    .value{
+        padding-bottom: 40px;
+    }
+    .value{
+        padding: 80px 0 50px;
+    }
+    .value-heading h1{
+        width: 100%;
+        font-size: 49px;
+    }
+    .value-heading p{
+        font-size: 16px;
+    }
+    .value-p{
+        width: 100%;
+    }
+
+    /* --portfolio-- */
+    .im-2 img{
+        width: 50%;
+        text-align: right;
+    }
+    .portfolio-img{
+        padding-top: 80px;
+    }
+
+    /* --team-- */
+    .team-img{
+        position: static;
+        text-align: center;
+        margin: -40px 0 0;
+    }
+    .team-img img{
+        width: 100%;
+    }
+    .team{
+        padding: 150px 0 40px;
+    }
+
+    /* --team--meet-- */
+    .meet-team{
+        padding: 80px 0 50px;
+    }
+    .team-heading {
+        margin-bottom: 50px;
+    }
+    .team-heading .sub{
+        font-size: 18px;
+    }
+    .til{
+        font-size: 50px;
+        width: 100%;
+    }
+    .team-heading p{
+        font-size: 16px;
+        width: 100%;
+    }
+    .thumb-content h4{
+        font-size: 26px;
+    }
+
+    /* --movement-- */
+    .move-video button{
+        height: 120px;
+        width: 120px;
+        font-size: 28px;
+    }
+    .movement{
+        padding: 80px 0;
+    }
+    .mov-heading{
+        margin-bottom: 50px;
+    }
+    /* --cooper-- */
+    .cooper{
+        padding: 80px 0;
+    }
+
+    /* --blog-- */
+    .blog{
+        padding: 80px 0;
+    }
+    .blog-grid{
+        margin-bottom: 60px;
+    }
+    .blog-grid .btn{
+        padding: 18px 35px;
+    }
+    .blog-slide{
+        margin-top: 50px;
+    }
+    .wedg{
+        margin-bottom: 50px;
+    }
+    .wedg h4{
+        font-size: 26px;
+    }
+
+    /* --contact-- */
+    .our-contac{
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    .contact-info h4{
+        font-size: 26px;
+    }
+    .phone-no a{
+        font-size: 34px;
+    }
+    .email-no a{
+        font-size: 34px;
+    }
+
+    /* --office-- */
+    .office-heading{
+        margin-bottom: 50px;
+    }
+    .office-heading h6{
+        font-size: 18px;
+    }
+    .office-heading h2{
+        font-size: 50px;
+    }
+    .office-contact h4{
+        font-size: 26px;
+    }
+    /* --im-2-- */
+    .im-2{
+        right: -315px;
+    }
+
+}
+@media(max-width:768px){
+
+    /* --header-- */
+    .header_wrapper .container{
+        max-width: 570px!important;
+    }
+
+    /* --banner-- */
+    .banner-content .title{
+        font-size: 40px!important;
+    }
+    .banner .col-lg-6{
+        margin-bottom: 60px;
+        padding-top: 0;
+    }
+    .banner-content{
+        margin-top: 0;
+    }
+
+    /* --services-- */
+    .services{
+        padding: 60px 0 20px;
+     }
+     .services-head h5{
+        font-size: 18px;
+     }   
+     .services-data h5 a{
+        font-size: 20px;
+     }   
+     .services-grid{
+        padding: 40px 25px;
+     }
+
+
+    /* --about-us-- */
+    .about-us{
+        padding: 60px 0;
+    }
+    .about-heading h5{
+        font-size: 16px!important;
+    }
+    .about-form h3{
+        font-size: 27px!important;
+    }
+    .about-form{
+        padding: 40px 30px!important;
+    }
+
+    /* --project-- */
+    .project{
+        padding: 60px 0 20px;
+    }
+    .project-info{
+        padding: 30px!important;
+    }
+    .project-info h4 a{
+        font-size: 20px!important;
+    }
+    .project-heading h5{
+        font-size: 16px;
+        font-weight: 500!important;
+    }
+
+    /* --design-- */
+    .design{
+        padding: 60px 0 30px!important;
+    }
+    .design-heading h5{
+        font-size: 16px;
+    }
+    .design-heading h2{
+        font-size: 44px!important;
+    }
+    .design-data{
+        padding: 40px 20px!important;
+    }
+    .design-no h2{
+        font-size: 38px;
+    }
+    .design-no h5{
+        font-size: 18px;
+    }
+
+    /* --testimonial-- */
+    
+    .testimonial{
+        padding: 60px 0 30px;
+    }
+    .testimonial-heading h5{
+        font-size: 16px;
+    }
+    .testimonial-heading h2{
+        font-size: 48px;
+    }
+    .testimonial-data{
+        padding: 30px 0!important;
+    }
+    .testimonial-data p{
+        font-size: 16px!important;
+    }
+    .person-data p{
+        font-size: 14px!important;
+    }
+
+    /* --pricing-- */
+    .pricing{
+        padding: 60px 0 30px!important;
+    }
+     .pricing-heading h5{
+        font-size: 16px;
+    }
+    .pricing-heading h2{
+        font-size: 48px!important;
+    }
+    .price h2{
+        font-size: 50px!important;
+    }
+
+    /* --client-- */
+    .clients{
+        padding: 60px 0 20px;
+    }
+    .clients-heading h5{
+        font-size: 16px;
+    }
+
+    /* --stories-- */
+    .stories{
+        padding: 60px 0;
+    }
+    .stories-heading h5{
+        font-size: 16px;
+    }
+    .stories-bata{
+        display: block!important;
+    }
+    .stories-data{
+        display: block!important;
+    }
+    .stories-img{
+        margin-bottom: 30px;
+    }
+    .stories-img a img{
+        width: 100%;
+    }
+    .post{
+        margin-left: 0;
+    }
+    .post h5 a{
+        font-size: 20px;
+    }
+
+    /* --work-- */
+    .work{
+        padding: 60px 0 40px;
+    }
+    .work::after{
+        height: 480px!important;
+    }
+    .work-heading{
+        margin-bottom: 50px;
+    }
+    .center-img{
+        margin-right: -100px;
+    }
+    .center-img img{
+        width: 50%;
+    }
+    .sham1 img{
+        width: 35%;
+    }
+    .sham2 img{
+        width: 35%;
+    }
+    .sham1{
+        bottom: 0;
+        left: -70px;
+    }
+    .sham2{
+        bottom: 0;
+        right: -110px;
+    }  
+    .work-heading h2{
+        font-size: 36px;
+    } 
+
+    /* --footer-- */
+    .footer{
+        max-width: 540px!important;
+    }
+    .footer-top{
+        padding-bottom: 50px!important;
+    }
+    .footer-touch h2{
+        font-size: 38px!important;
+    }
+    .footer-touch{
+        margin-bottom: 50px!important;
+    }
+    .footer-resourses{
+        margin-bottom: 50px!important;
+    }
+    .footer-services{
+        margin-bottom: 50px!important;
+    }
+    .alt{
+        font-size: 16px!important;
+    }
+    .shrink{
+        font-size: 16px!important;
+    }
+    .cent{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .footer-link ul{
+        text-align: center;
+    }
+
+    /* --expert-- */
+    .section{
+        padding: 60px 0 30px; 
+    }
+    .subtitle{
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .expert-title{
+        font-size: 38px;
+    }
+    .experts-data{
+        padding: 40px 20px;
+    }
+    .experts-no h2{
+        font-size: 38px;
+    }
+
+    /* --help-- */
+    .help{
+        padding: 60px 0 30px;
+     }
+
+     /* --value-- */
+     .value{
+        padding-bottom: 20px;
+    }
+     .value{
+        padding: 60px 0 30px;
+    }
+    .value-heading h1{
+        width: 100%;
+        font-size: 38px;
+    }
+    .value-que h3{
+        font-size: 32px;
+    }
+    .value-que h5{
+        font-size: 20px;
+    }
+
+    /* --portfolio-- */
+    .portfolio-img{
+        padding-top: 60px;
+    }
+
+    /* --team-- */
+    .team{
+        padding: 150px 0 20px;
+    }
+
+     /* --team--meet-- */
+     .meet-team{
+        padding: 60px 0 30px;
+    }
+    .team-heading .sub{
+        font-size: 16px;
+    }
+    .thumb-content h4{
+        font-size: 20px;
+    }
+
+       /* --movement-- */
+       .move-video button{
+        height: 120px;
+        width: 120px;
+        font-size: 28px;
+    }
+    .movement{
+        padding: 60px 0;
+    }
+    .move-video button{
+        height: 120px;
+        width: 120px;
+    }
+    .ment-til{
+       font-size: 44px;
+    }
+    .move-video button{
+        height: 80px;
+        width: 80px;
+        font-size: 24px;
+    }
+    .move-video{
+        top: 55%;
+    }
+    .team-area{
+        padding: 150px 0 40px;
+    }
+    .team-home h1{
+        font-size: 38px;
+    }
+    .team-area .im-2 img{
+        width: 60%;
+    }
+    .team-home ul{
+        margin-bottom: 35px;
+    }
+
+    /* --cooper-- */
+    .cooper{
+        padding: 60px 0;
+    }
+    .cooper-data{
+        padding-right: 0;
+    }
+    .cooper-data h2{
+        font-size: 38px;
+    }
+    .cooper-data span{
+        font-size: 18px;
+    }
+
+    /* --blog-- */
+    .blog{
+        padding: 60px 0;
+    }
+    .blog-grid h3{
+        margin-bottom: 30px;
+        letter-spacing: 0;
+        line-height: 1.15;
+        font-size: 32px;
+    }
+    .blog-im-data h6{
+        font-size: 18px;
+    }
+    .wedg h4{
+        font-size: 20px;
+    }
+
+    /* --contact-- */
+    .contact-form{
+        padding: 40px 30px;
+    }
+    .contact-form h3{
+        font-size: 28px;
+    }
+    .contact-info h4{
+        font-size: 20px;
+    }
+    .phone-no a{
+        font-size: 30px;
+    }
+    .email-no a{
+        font-size: 30px;
+    }
+
+    /* --office-- */
+    .office-heading h6{
+        font-size: 16px;
+    }
+    .office-contact h4{
+        font-size: 20px;
+    }
+    /* --im-2-- */
+    .im-2{
+        right: -361px;
+    }
+
+    
+}
+@media (max-width:576px){
+   
+    /* --header-- */
+    .header_wrapper{
+        padding-top: 10px!important;
+    }
+
+    /* --banner-- */
+    .banner-content .title{
+        font-size: 40px!important;
+    }
+    .banner-content p{
+        font-size: 18px!important;
+        font-weight: 400;
+    }
+    .banner .btn{
+        padding: 22px 35px;
+    }
+
+    /* --services-- */
+    .services-head h2{
+        font-size: 37px;
+     } 
+
+    /* --about-us-- */
+    .about-heading h5{
+        font-size: 16px!important;
+    }
+    .about-heading h2{
+        font-size: 33px!important;
+    }
+
+    /* --project-- */
+    .project-heading h2 {
+        max-width: 300px!important;
+        font-size: 38px!important;
+    }
+
+    /* --design-- */
+    .design-heading h2{
+        font-size: 38px!important;
+    }
+    .design-data{
+        padding: 30px 10px!important;
+    }
+    .design-no h5{
+        font-size: 16px!important;
+    }
+
+    /* --testimonial-- */
+    .testimonial-heading h2{
+        font-size: 38px;
+    }
+
+    /* --pricing-- */
+    .pricing-header h3{
+        font-size: 30px!important;
+    }
+    .pricing-col{
+        padding: 40px 30px!important;
+    }
+
+    /* --clients-- */
+    .clients{
+        padding: 60px 0 20px;
+    }
+    .clients-heading h2{
+        font-size: 38px;
+    }
+
+    /* --stories-- */
+    .stories-heading h2{
+        font-size: 38px;
+    }
+
+    /* --work-- */
+    .work::after{
+        height: 400px!important;
+    }
+    .work-heading h2{
+        font-size: 35px!important;
+    }
+    .work-heading h6{
+        font-size: 16px!important;
+    }
+    .center-img{
+        margin-right: -50px;
+    }
+    .center-img img{
+        width: 50%;
+    }
+    .sham1{
+        bottom: 0;
+        left: -125px;
+    }
+    .sham2{
+        bottom: 0;
+        right: -130px;
+    }  
+
+    /* --section--heading-- */
+    .titlee{
+        font-size: 38px;
+    }
+
+    /* --expert-- */
+    .experts-data{
+        padding: 30px 10px;
+    }
+
+    /* --help-- */
+    .help-h2{
+        font-size: 38px;
+        width: 60%;
+    }
+
+    /* --portfolio-- */
+    .portfolio .container{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .project-info p{
+        margin-bottom: 0;
+    }
+
+    /* --paginatiom-- */
+    .pagination{
+        margin: -2px;
+    }
+    .pagination li{
+        margin: 2px;
+    }
+    .pagination li a{
+        line-height: 35px;
+        min-width: 35px;
+        padding: 0 10px;
+        font-size: 14px;
+    }
+
+    /* --expert-- */
+    .experts-icon img {
+        width: 7%;
+    }
+
+    /* --team-meet-- */
+    .til{
+        font-size: 38px;
+    }
+    
+    /* --blog-- */
+    .blog{
+        padding: 60px 0;
+    }
+    .playy-btn{
+        height: 80px;
+       width: 80px;
+        font-size: 20px;
+    }
+
+    /* --office-- */
+    .office-heading h2{
+        font-size: 38px;
+    }
+    .office-contact h4{
+        font-size: 20px;
+    }
+    /* --im-2-- */
+    .im-2{
+        right: -404px;
+    }
+  
+}
+    
+
+
+
+
+
